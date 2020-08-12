@@ -1,0 +1,55 @@
+{
+	"name": "X-Wing",
+	"tag": "No tag",
+	"joysticks": [
+		{
+			"tag": "<write comments here>",
+			"binds": {
+				"axi 4 +": [
+					"key 40"
+				],
+				"btn 0": [
+					"key 23"
+				],
+				"axi 0 -": [
+					"mou 0 - 50"
+				],
+				"axi 0 +": [
+					"mou 0 + 50"
+				],
+				"axi 1 -": [
+					"mou 1 - 50"
+				],
+				"axi 1 +": [
+					"mou 1 + 50"
+				],
+				"btn 3": [
+					"key 26"
+				],
+				"hat 0 L": [
+					"key 66"
+				],
+				"hat 0 R": [
+					"key 67"
+				],
+				"btn 5": [
+					"key 87"
+				],
+				"btn 4": [
+					"key 86"
+				],
+				"hat 0 U": [
+					"key 225",
+					"key 66"
+				],
+				"hat 0 D": [
+					"key 225",
+					"key 67"
+				],
+				"axi 3 +": [
+					"mbt 1"
+				]
+			}
+		}
+	]
+}
