@@ -21,5 +21,5 @@ You can buy the app on the Mac App Store: https://itunes.apple.com/us/app/joysti
 |D-pad right | Cycle shield power setting
 |D-pad up | Divert shield energy to lasers
 |D-pad down | Divert laser engery to shields
-|Left shoulder button | Decrease speed
-|Right shoulder button | Increase speed
+|Left shoulder button |Decrease speed
+|Right shoulder button |Increase speed
