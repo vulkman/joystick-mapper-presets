@@ -1,4 +1,4 @@
-# joystick-mapper-presets
+# Joystick Mapper Presets
 Presets for the Mac app Joystick Mapper (https://joystickmapper.com)
 
 If you want to play DOSbox games on a Mac using your DualShock 4 PlayStation controller via bluetooth, you will probably need an app like Joystick Mapper.
